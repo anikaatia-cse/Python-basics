@@ -1,2 +1,8 @@
 # Python-Basics
-i am starting my undergraduate program in few days
+
+
+
+
+
+A collection of my foundational Python scripts, lab exercises, and notes as I begin my journey in Computer Science and Engineering.
+
